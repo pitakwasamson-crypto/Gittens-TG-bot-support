@@ -1,0 +1,164 @@
+{
+    "lastTicket": 18570881,
+    "tickets": {
+        "18570877": {
+            "id": 18570877,
+            "userId": 1300422086,
+            "name": "kehinde",
+            "username": "Owolabi250",
+            "status": "CLOSED",
+            "created": "2026-07-27T15:20:03.413Z",
+            "messages": [
+                {
+                    "from": "user",
+                    "text": "Hi",
+                    "date": "2026-07-27T15:20:03.425Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Hi",
+                    "date": "2026-07-27T15:20:35.519Z"
+                },
+                {
+                    "from": "admin",
+                    "text": "kj",
+                    "date": "2026-07-27T15:20:41.698Z"
+                },
+                {
+                    "from": "user",
+                    "text": "C",
+                    "date": "2026-07-27T15:20:46.295Z"
+                }
+            ]
+        },
+        "18570878": {
+            "id": 18570878,
+            "userId": 1300422086,
+            "name": "kehinde",
+            "username": "Owolabi250",
+            "status": "CLOSED",
+            "created": "2026-08-04T06:55:15.090Z",
+            "messages": [
+                {
+                    "from": "user",
+                    "text": "Gd",
+                    "date": "2026-08-04T06:55:26.290Z"
+                },
+                {
+                    "from": "admin",
+                    "text": "tg",
+                    "date": "2026-08-04T06:55:51.031Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Gf",
+                    "date": "2026-08-04T06:55:54.615Z"
+                }
+            ]
+        },
+        "18570879": {
+            "id": 18570879,
+            "userId": 8390115643,
+            "name": "Willson",
+            "username": "",
+            "status": "CLOSED",
+            "created": "2026-08-04T07:42:33.266Z",
+            "messages": [
+                {
+                    "from": "user",
+                    "text": "Reply me",
+                    "date": "2026-08-04T07:42:40.422Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Hold",
+                    "date": "2026-08-04T07:42:48.665Z"
+                },
+                {
+                    "from": "admin",
+                    "text": "How are you boss? 😂😂😂",
+                    "date": "2026-08-04T07:43:01.372Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Hello sir",
+                    "date": "2026-08-04T07:44:22.795Z"
+                },
+                {
+                    "from": "admin",
+                    "text": "Hiii",
+                    "date": "2026-08-04T07:44:35.646Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Hello sir",
+                    "date": "2026-08-04T07:45:24.006Z"
+                },
+                {
+                    "from": "admin",
+                    "text": "https://twitter.com/messages/compose?text=&recipient_id=121535363",
+                    "date": "2026-08-04T07:45:37.930Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Testing",
+                    "date": "2026-08-04T12:39:40.611Z"
+                },
+                {
+                    "from": "user",
+                    "text": "GM",
+                    "date": "2026-08-04T12:54:32.184Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Get",
+                    "date": "2026-08-04T13:09:15.226Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Have",
+                    "date": "2026-08-04T13:09:21.103Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Hb",
+                    "date": "2026-08-04T13:17:07.736Z"
+                }
+            ]
+        },
+        "18570880": {
+            "id": 18570880,
+            "userId": 8768722480,
+            "name": ".",
+            "username": "fabuloveszn",
+            "status": "OPEN",
+            "created": "2026-08-04T12:51:20.663Z",
+            "messages": []
+        },
+        "18570881": {
+            "id": 18570881,
+            "userId": 8390115643,
+            "name": "Willson",
+            "username": "mrWilson250",
+            "status": "CLOSED",
+            "created": "2026-08-04T13:17:24.222Z",
+            "messages": [
+                {
+                    "from": "user",
+                    "text": "Gf",
+                    "date": "2026-08-04T13:17:24.223Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Gov",
+                    "date": "2026-08-04T13:17:30.778Z"
+                },
+                {
+                    "from": "user",
+                    "text": "Gv",
+                    "date": "2026-08-04T13:18:24.810Z"
+                }
+            ]
+        }
+    }
+}
